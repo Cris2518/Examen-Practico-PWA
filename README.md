@@ -1,4 +1,4 @@
-# Comando a Ejecutar
+# Comandos a Ejecutar
 
 ### yarn
 
